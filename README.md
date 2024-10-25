@@ -1,4 +1,4 @@
-## Hi there 👋
+## Meu nome é Eduarda 👋
 
 <!--
 **silvaed2007/silvaed2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
